@@ -86,4 +86,7 @@ Created as part of Digital System Design laboratory work.
 
 *OUTPUT* :
 
+<img width="1920" height="1021" alt="Image" src="https://github.com/user-attachments/assets/8ba787b5-7cfe-47e1-8e8f-1b93a4ce3bbb" />
+
+<img width="1920" height="1022" alt="Image" src="https://github.com/user-attachments/assets/28028bbb-cdf6-4671-92f6-36f0b91700ec" />
 
